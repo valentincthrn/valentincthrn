@@ -48,11 +48,9 @@ This project is a challenge proposed by the consulting firm EY in collaboration 
 
 #### ***The objective***
 
+The goal is to use airborne infrared linescan supplied by Forest Fire Management Victoria (Australia) and satellite data supplied by the European Space Agency (ESA) and NASA to help tackle climate change and the fight against bushfires in Australia by using **segmentation**. The solutions from the Challenge will help to reduce fatalities, damage and trauma by allowing fire authorities to answer critical questions, such as who they need to warn and what locations need to be evacuated.
 
 #### ***My achievements***
 
-
-### Project 4 : Creation of an AI association in Centrale Lille
-
-
+After more than 2 months of projects, I have developed a "UNet" model to do image segmentation. I realized image augmentation thanks to "Albumentations" to reach an F1-score of 0.67, which places me 13th of the challenge.
 
