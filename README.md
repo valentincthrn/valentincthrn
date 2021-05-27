@@ -28,7 +28,29 @@ For the technical details, I let you browse directly the [repositories](http://w
 
 ### Project 2 : Data Processing in VBA during an 1-month internship
 
+#### ***Context***
+
+During the first year of school at Centrale Lille, a one-month internship is mandatory. After a lot of research, Edmond de Rothschild kindly accepted me to be part of their Asset Management team. This internship was a huge experience for me both personally and professionally. 
+
+#### ***The objective***
+
+In this department, a lot of data from Bloomberg has to be used and analysed. However, when switching from Bloomberg to Excel, the data is subject to errors or losses. Therefore, an algorithm was used to pre-process this data in order to clean it up as best as possible. My objective was to improve this algorithm by using the Excel programming language: VBA. 
+
+#### ***My achievements***
+
+Initially, I was a beginner in VBA and also in Finance. So, in 1 month, I wanted to learn as much as possible. That's how I learned and even realized from A to Z this new algorithm in VBA. The team was enthusiastic about my progress and my achievement and assured me to replace the old algorithm with mine. The algorithm was more efficient and faster (about twice as fast). 
+
 ### Project 3 : Segmentation of bushfires in Python
+
+#### ***Context***
+
+This project is a challenge proposed by the consulting firm EY in collaboration with Forest Fire Management Victoria (Australia) and the European Space Agency (ESA) and NASA. Apart from the courses at Centrale Lille which are considered generalist, few electives were oriented around DataScience / Artificial Intelligence, so I was looking for medium term projects to gain experience. I chose this project in computer vision because it was close to a real use case in an interesting and challenging context.
+
+#### ***The objective***
+
+
+#### ***My achievements***
+
 
 ### Project 4 : Creation of an AI association in Centrale Lille
 
