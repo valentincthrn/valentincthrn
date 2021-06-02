@@ -2,7 +2,7 @@
 
 ## 4-th year Engineering Master's student in France at the Ecole Centrale de Lille  
 
-- I am seeking a 5-month internship (from September to February ideally) in the field of Artificial Intelligence.
+- I am seeking a 4 to 6-month internship (from September to February ideally) in the field of Artificial Intelligence.
 - Normally, I would have been by the end of July 2021 in São Paulo (Brazil) to make a double degree. Unfortunately, for personal and health reasons, I postponed my departure for the next semester, scheduled for early March 2022. 
 - For 2 years, I realized various projects linked with Data Science, Machine Learning, Deep Learning : 
     1. [Data Analysis in an 18-month project](#p1)
