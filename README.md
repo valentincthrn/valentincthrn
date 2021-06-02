@@ -27,7 +27,7 @@ The project was mainly exploratory in the sense that even the client gave us a f
 
 I was part of two teams: Analysis and then, at the end of the project, Machine Learning where I was appointed leader in both. My main task was to assist our project leader in developing algorithms in Python to analyze the stations extracted by the Extraction division. Finally, I mainly led the development and implementation of artificial intelligence algorithms to predict the load factor of the French wind farm.  The client was very satisfied with the work done and underlined his satisfaction in the prediction results of the Machine Learning team. 
 
-For the technical details, I let you browse directly the [repositories](http://www.google.fr/ "repositories") dedicated to the project. 
+For the technical details, I let you browse directly the [repositories](https://github.com/valentincthrn/projet-edf "repositories") dedicated to the project. 
 
 - - - - 
 <a name="p2"></a>
