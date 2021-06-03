@@ -3,7 +3,7 @@
 ## 4-th year Engineering Master's student in France at the Ecole Centrale de Lille  
 
 - I am seeking a 4 to 6-month internship (from September to February ideally) in the field of Artificial Intelligence.
-- Normally, I would have been by the end of July 2021 in São Paulo (Brazil) to make a double degree. Unfortunately, for personal and health reasons, I postponed my departure for the next semester, scheduled for early March 2022. 
+- Normally, I would have been by the end of July 2021 in São Paulo (Brazil) to make an exchange. Unfortunately, for personal and health reasons, I postponed my departure for the next semester, scheduled for early March 2022. 
 - For 2 years, I realized various projects linked with Data Science, Machine Learning, Deep Learning : 
     1. [Data Analysis in an 18-month project](#p1)
     2. [Data Preprocessing during an internship](#p2)
@@ -27,6 +27,7 @@ The project was mainly exploratory in the sense that even the client gave us a f
 
 I was part of two teams: Analysis and then, at the end of the project, Machine Learning where I was appointed leader in both. My main task was to assist our project leader in developing algorithms in Python to analyze the stations extracted by the Extraction division. Finally, I mainly led the development and implementation of artificial intelligence algorithms to predict the load factor of the French wind farm.  The client was very satisfied with the work done and underlined his satisfaction in the prediction results of the Machine Learning team. 
 
+#### ***Details***
 For the technical details, I let you browse directly the [repositories](https://github.com/valentincthrn/projet-edf "repositories") dedicated to the project. 
 
 - - - - 
@@ -45,6 +46,9 @@ In this department, a lot of data from Bloomberg has to be used and analyzed. Ho
 
 Initially, I was a beginner in VBA and also in Finance. So, in 1 month, I wanted to learn as much as possible. That's how I learned and even realized from A to Z this new algorithm in VBA. The team was enthusiastic about my progress and my achievement and assured me to replace the old algorithm with mine. The algorithm was more efficient and faster (about twice as fast). 
 
+#### ***Details***
+No data will be available on this Github because of confidentiality. 
+
 - - - - 
 <a name="p3"></a>
 ### Project 3 : Segmentation of bushfires in Python
@@ -60,4 +64,7 @@ The goal is to use airborne infrared linescan supplied by Forest Fire Management
 #### ***My achievements***
 
 After more than 2 months of projects, I have developed a "UNet" model to do image segmentation. I realized image augmentation thanks to "Albumentations" to reach an F1-score of 0.67, which places me 13th on the challenge.
+
+#### ***Details***
+Details will be available at the end of the challenge. 
 
