@@ -1,8 +1,7 @@
 # Hi, I am Valentin CATHERINE 
 
-## 4-th year Engineering Master's student in France at the Ecole Centrale de Lille  
-
-- I am seeking a 4 to 6-month internship in the field of Artificial Intelligence.
+- Master-level Engineering student seeking challenging 4 to 6-month internship beginning in August 2021.
+- Serious, curious and dynamic, I would like to work as a Data Scientist at a consulting firm.
 - For 2 years, I realized various projects linked with Data Science, Machine Learning, Deep Learning : 
     1. [Data Analysis in an 18-month project](#p1)
     2. [Data Preprocessing during an internship](#p2)
