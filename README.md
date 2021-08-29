@@ -5,7 +5,7 @@
 - For 2 years, I realized various projects linked with Data Science, Machine Learning, Deep Learning : 
     1. [Data Analysis in an 18-month project](#p1)
     2. [Data Preprocessing during an internship](#p2)
-    3. [An online challenge](#p3)
+    3. [An online challenge by EY](#p3)
  - - - - 
 ## My projects
 
