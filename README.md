@@ -6,6 +6,7 @@
     1. [Data Analysis in an 18-month project](#p1)
     2. [Data Preprocessing during an internship](#p2)
     3. [An online challenge by EY](#p3)
+    4. [My research thesis IN PROGRESS](#p4)
  - - - - 
 ## My projects
 
@@ -66,3 +67,20 @@ After more than 2 months of projects, I have developed a "UNet" model to do imag
 #### ***Details***
 Details will be available at the end of the challenge. 
 
+<a name="p4"></a>
+### Project 4 Stock market prediction using Graph Neural Network
+
+#### ***Context***
+
+This project is the master thesis to conclude my double degree between Centrale Lille and Escola Politecnica de São Paulo. This project is currently in progress.
+
+#### ***Our objectives***
+
+The goal is to explore the relevance of using Graph Neural Networks to predict the Brazilian stock market and compare it to baselines made by other students.
+
+#### ***My achievements***
+
+IN PROGRESS
+
+#### ***Details***
+For the technical details, I let you browse directly the [repositories](https://github.com/valentincthrn/StockMarketGNN "repositories") dedicated to the master thesis. 
