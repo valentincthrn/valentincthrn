@@ -1,12 +1,9 @@
 # Hi, I am Valentin CATHERINE 
-
-- Master-level Engineering student seeking challenging 4 to 6-month internship beginning in August 2021.
-- Serious, curious and dynamic, I would like to work as a Data Scientist at a consulting firm.
-- For 2 years, I realized various projects linked with Data Science, Machine Learning, Deep Learning : 
+I realized various projects linked with Data Science, Machine Learning, Deep Learning : 
     1. [Data Analysis in an 18-month project](#p1)
     2. [Data Preprocessing during an internship](#p2)
     3. [An online challenge by EY](#p3)
-    4. [My research thesis IN PROGRESS](#p4)
+    4. [My research thesis](#p4)
  - - - - 
 ## My projects
 
@@ -77,10 +74,6 @@ This project is the master thesis to conclude my double degree between Centrale 
 #### ***Our objectives***
 
 The goal is to explore the relevance of using Graph Neural Networks to predict the Brazilian stock market and compare it to baselines made by other students.
-
-#### ***My achievements***
-
-IN PROGRESS
 
 #### ***Details***
 For the technical details, I let you browse directly the [repositories](https://github.com/valentincthrn/StockMarketGNN "repositories") dedicated to the master thesis. 
